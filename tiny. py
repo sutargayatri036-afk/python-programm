@@ -1,0 +1,9 @@
+import random
+dice=random.randint(1,6)
+print("YOU ROLLED:",dice)
+
+import random
+answers=["YES!","NO!","MAYBE!","DEFINETELY!","ASK AGAIN!"]
+question=input("ASK ME ANYTHING\n")
+print(random.choice(answers))
+
