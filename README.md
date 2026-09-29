@@ -7,6 +7,10 @@ This repository contains Python programs, mini-games, creative projects, and exp
 🚀 Projects
 Project	Description
 🏎️ Car Racing Game	A simple racing game made with Python Turtle
+## 📸 Screenshot
+
+![Car Racing Game](car_racing.png)
+
 🖌️ Mini Paint	Draw using your mouse with a Python GUI
 🔢 Number Guessing	Guess the secret number
 🍀 Lucky Number	A small random-number program
